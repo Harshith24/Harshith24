@@ -4,7 +4,7 @@
 -  📫 How to reach me: harshiths2004@gmail.com or LinkedIn
 
 ## Socials
-![(https://www.linkedin.com/in/harshith-suresh-056079216/)]
+![Linkedin](https://www.linkedin.com/in/harshith-suresh-056079216/)
 
 <!--
 **Harshith24/Harshith24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
