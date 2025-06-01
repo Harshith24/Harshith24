@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshith</h1>
-<h3 align="center">Computer Science Major at Purdue interested in Cybersecurity, AI/ML, and Cloud</h3>
+<h3 align="">Computer Science Major at Purdue interested in Cybersecurity, AI/ML, and Cloud</h3>
 
 - 🔭 I’m currently a **Cybersecurity Consultant at Crowe**
 
@@ -12,6 +12,7 @@
 - 📫 How to reach me **harshiths2004@gmail.com**
 
 ### Blogs posts
+<a href="https://medium.com/@harshiths2004/creating-function-app-with-multiple-functions-through-terraform-in-microsoft-azure-7f94b268e719" target="blank"><img align="center"/> Creating Function App with multiple functions through Terraform in Microsoft Azure </a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
